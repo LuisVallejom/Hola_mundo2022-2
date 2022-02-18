@@ -1,5 +1,5 @@
 # Tarea 4
-- Primera tarea: Colaborar 
+## - Primera tarea: Colaborar 
 
 
 1. Primero descargar el repositorio de otra persona. Para descargarlo habrá que clonar un repositorio.
@@ -34,7 +34,7 @@
 
 ![Captura de pantalla 4](https://user-images.githubusercontent.com/82807688/154716039-6f714d85-0f5c-4da1-889b-74e595f7eb15.png)
 
-- Tarea 2: Nuevo repositorio.
+## - Tarea 2: Nuevo repositorio.
 
 1. Crear nuevo repositorio `git init`.
 
@@ -68,7 +68,7 @@
 
 ` $ git push --set-upstream origin my-branch`
 
-- Tarea 3: Contribuir a una rama existente en GitHub.
+## - Tarea 3: Contribuir a una rama existente en GitHub.
 
 1. Para empezar hay que ir al repositorio deseado
 
